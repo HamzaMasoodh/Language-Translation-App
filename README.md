@@ -2,11 +2,11 @@
 A simple web-based application that translates text using the T5 transformer model from the Hugging Face Transformers library. The application is built using Gradio for the user interface.
 
 # Table of Contents
-Features
-Installation
-Usage
-Contributing
-License
++ [Features](https://github.com/HamzaMasoodh/Language-Translation-App/blob/main/README.md#features)
++ [Installation](https://github.com/HamzaMasoodh/Language-Translation-App/blob/main/README.md#installation)
++ [Usage](https://github.com/HamzaMasoodh/Language-Translation-App/blob/main/README.md#usage)
++ [Contributing](https://github.com/HamzaMasoodh/Language-Translation-App/blob/main/README.md#contribution)
++ [License](https://github.com/HamzaMasoodh/Language-Translation-App/blob/main/README.md#license)
 # Features
 
 1. Web-based interface for easy text input and translation.
@@ -25,13 +25,11 @@ License
 ```
 git clone https://github.com/your-github-username/language-translator.git
 cd language-translator
-
 ```
 + Create a virtual environment:
 ```
 python3 -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
-
 ```
 
 **Install the required packages:**
@@ -67,5 +65,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 + Build a lightweight machine learning app using Python and Gradio.
 
 # License
-+ MIT
++ [MIT](https://github.com/HamzaMasoodh/Language-Translation-App/blob/main/LICENSE.md)
 
